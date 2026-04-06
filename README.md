@@ -22,7 +22,10 @@ This project is part of my learning journey as a junior frontend developer.
 * CSS
 * (Optional) Firebase
 
+<<<<<<< HEAD
 ---
+=======
+>>>>>>> 8042cbab4c99d3254c44c73a72bd80b8d5071b26
 
 ## 🌐 Live Demo
 
